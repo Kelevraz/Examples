@@ -1,7 +1,8 @@
 ﻿int[] array = { 11, 32, 23, 44, 5, 643, 78, 81, 19 };
 
 int n = array.Length;
-int find = 4;
+int find = 6;
+
 int index = 0;
 
 while (index < n)
